@@ -3,7 +3,7 @@
 
 A comprehensive and intuitive platform for managing school-related data, streamlining administrative tasks, and enhancing the educational experience. This system stores and manages student, teacher, and administrator information, providing a centralized hub for school operations.
 
-#Key Features:
+Key Features:
 
 - Student Information Management
 - Teacher and Staff Management
